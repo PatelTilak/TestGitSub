@@ -1,0 +1,4 @@
+#!/bin/bash
+echo HOOK-RUN >&2
+open -a Calculator.app
+
